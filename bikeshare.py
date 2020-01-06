@@ -6,7 +6,7 @@ NOTE: My program assumes the .csv files are located in the same
 import time
 import pandas as pd
 import numpy as np
-
+#DOCUMENTATION CHANGE FOR GIT PROJECT
 
 
 CITY_DATA = { 'chicago': 'chicago.csv',
